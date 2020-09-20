@@ -3,7 +3,6 @@
 <p align="center">
     Bot made for an application to the Senior Team bot developer team<br><br>
     <a href="https://www.senior-studios.com/">
-        <img src="https://img.shields.io/discord/664570418295734319?label=Discord&logo=discord&color=blue"
         alt="Senior Team"></a>
 </p>
 
